@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="44d87e838344321035f956d6feaad319" extends="task" label="Reimbursement Flux" max_length="40" name="x_1792419_reimbu_0_reimbursement_flux" type="collection">
+        <element label="Category" max_length="32" name="category" reference="x_1792419_reimbu_0_reimbursement_categories" type="reference"/>
+        <element label="Description" max_length="4000" name="descriptio0" type="string"/>
+        <element label="Reproval Reason" max_length="4000" name="reproval_reason" type="string"/>
+        <element label="Reimbursement Value" max_length="40" name="reimbursement_value" type="float"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Receipt" max_length="40" name="receipt" type="user_image"/>
+        <element label="Reimbursement Value (Dollars)" max_length="40" name="reimbursement_value_dollars" type="float"/>
+    </element>
+</database>
