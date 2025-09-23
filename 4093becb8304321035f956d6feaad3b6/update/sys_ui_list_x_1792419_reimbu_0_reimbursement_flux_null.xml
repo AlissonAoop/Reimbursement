@@ -3,92 +3,107 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">60d87e838344321035f956d6feaad3e8</list_id>
+            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">27cc7b57834c721035f956d6feaad3de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 14:10:24</sys_created_on>
-            <sys_id>acd87e838344321035f956d6feaad3e8</sys_id>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
+            <sys_id>a7cc7b57834c721035f956d6feaad3df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 14:10:24</sys_updated_on>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>priority</element>
-            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">60d87e838344321035f956d6feaad3e8</list_id>
+            <element>category</element>
+            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">27cc7b57834c721035f956d6feaad3de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 14:10:24</sys_created_on>
-            <sys_id>a0d87e838344321035f956d6feaad3e9</sys_id>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
+            <sys_id>afcc7b57834c721035f956d6feaad3df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 14:10:24</sys_updated_on>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">60d87e838344321035f956d6feaad3e8</list_id>
+            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">27cc7b57834c721035f956d6feaad3de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 14:10:24</sys_created_on>
-            <sys_id>a4d87e838344321035f956d6feaad3e9</sys_id>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
+            <sys_id>a3cc7b57834c721035f956d6feaad3e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 14:10:24</sys_updated_on>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>assigned_to</element>
-            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">60d87e838344321035f956d6feaad3e8</list_id>
+            <element>reimbursement_value</element>
+            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">27cc7b57834c721035f956d6feaad3de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 14:10:24</sys_created_on>
-            <sys_id>a8d87e838344321035f956d6feaad3e9</sys_id>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
+            <sys_id>a7cc7b57834c721035f956d6feaad3e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 14:10:24</sys_updated_on>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>short_description</element>
-            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">60d87e838344321035f956d6feaad3e8</list_id>
+            <element>reimbursement_value_dollars</element>
+            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">27cc7b57834c721035f956d6feaad3de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 14:10:24</sys_created_on>
-            <sys_id>acd87e838344321035f956d6feaad3e9</sys_id>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
+            <sys_id>abcc7b57834c721035f956d6feaad3e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 14:10:24</sys_updated_on>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_class_name</element>
-            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">60d87e838344321035f956d6feaad3e8</list_id>
+            <element>date</element>
+            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">27cc7b57834c721035f956d6feaad3de</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 14:10:24</sys_created_on>
-            <sys_id>a0d87e838344321035f956d6feaad3ea</sys_id>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
+            <sys_id>afcc7b57834c721035f956d6feaad3e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 14:10:24</sys_updated_on>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_1792419_reimbu_0_reimbursement_flux" element="NULL" name="x_1792419_reimbu_0_reimbursement_flux" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">27cc7b57834c721035f956d6feaad3de</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
+            <sys_id>a3cc7b57834c721035f956d6feaad3e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -102,10 +117,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 14:10:24</sys_created_on>
+            <sys_created_on>2025-09-23 13:45:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>60d87e838344321035f956d6feaad3e8</sys_id>
+            <sys_id>27cc7b57834c721035f956d6feaad3de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1792419_reimbu_0_reimbursement_flux</sys_name>
             <sys_package display_value="Reimbursement" source="x_1792419_reimbu_0">4093becb8304321035f956d6feaad3b6</sys_package>
@@ -113,7 +128,7 @@
             <sys_scope display_value="Reimbursement">4093becb8304321035f956d6feaad3b6</sys_scope>
             <sys_update_name>sys_ui_list_x_1792419_reimbu_0_reimbursement_flux_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 14:10:24</sys_updated_on>
+            <sys_updated_on>2025-09-23 13:45:54</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
