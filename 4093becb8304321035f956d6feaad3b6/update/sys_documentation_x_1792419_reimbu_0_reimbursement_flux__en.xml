@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Reimbursement Flux" language="en" table="x_1792419_reimbu_0_reimbursement_flux">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Reimbursement Flux</label>
+            <language>en</language>
+            <name>x_1792419_reimbu_0_reimbursement_flux</name>
+            <plural>Reimbursement Fluxes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-22 14:10:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reimbursement Flux</sys_name>
+            <sys_package display_value="Reimbursement" source="x_1792419_reimbu_0">4093becb8304321035f956d6feaad3b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reimbursement">4093becb8304321035f956d6feaad3b6</sys_scope>
+            <sys_update_name>sys_documentation_x_1792419_reimbu_0_reimbursement_flux__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-22 14:10:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

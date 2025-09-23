@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ab7772438344321035f956d6feaad3be" label="Reimbursement Categories" max_length="40" name="x_1792419_reimbu_0_reimbursement_categories" type="collection">
+        <element label="Managing Group" max_length="32" name="managing_group" reference="sys_user_group" type="reference"/>
+        <element display="true" label="Category" max_length="40" name="category" type="string"/>
+    </element>
+</database>
