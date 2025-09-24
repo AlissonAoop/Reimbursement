@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Reimbursement Flux" section_id="a6b1953383c0321035f956d6feaad38d" sys_domain="global" table="x_1792419_reimbu_0_reimbursement_flux" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>76b1d53383c0321035f956d6feaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Process Flow">d881513383c0321035f956d6feaad303</sys_ui_formatter>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>72b1d53383c0321035f956d6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>7ab1d53383c0321035f956d6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>72b1d53383c0321035f956d6feaad376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reimbursement_value</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>7ab1d53383c0321035f956d6feaad376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reimbursement_value_dollars</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>72b1d53383c0321035f956d6feaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>7ab1d53383c0321035f956d6feaad377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>72b1d53383c0321035f956d6feaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>7ab1d53383c0321035f956d6feaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>72b1d53383c0321035f956d6feaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>7ab1d53383c0321035f956d6feaad379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>72b1d53383c0321035f956d6feaad37a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reproval_reason</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>7ab1d53383c0321035f956d6feaad37a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>receipt</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_id>72b1d53383c0321035f956d6feaad37b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reimbursement Flux" display_value="Reimbursement Flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">a6b1953383c0321035f956d6feaad38d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Reimbursement Flux</caption>
+            <header>false</header>
+            <name>x_1792419_reimbu_0_reimbursement_flux</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 14:35:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6b1953383c0321035f956d6feaad38d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1792419_reimbu_0_reimbursement_flux</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Reimbursement" source="x_1792419_reimbu_0">4093becb8304321035f956d6feaad3b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reimbursement">4093becb8304321035f956d6feaad3b6</sys_scope>
+            <sys_update_name>sys_ui_section_a6b1953383c0321035f956d6feaad38d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

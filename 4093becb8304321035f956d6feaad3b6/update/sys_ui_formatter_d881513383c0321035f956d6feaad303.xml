@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-24 14:34:27</sys_created_on>
+        <sys_id>d881513383c0321035f956d6feaad303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="Reimbursement" source="x_1792419_reimbu_0">4093becb8304321035f956d6feaad3b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement">4093becb8304321035f956d6feaad3b6</sys_scope>
+        <sys_update_name>sys_ui_formatter_d881513383c0321035f956d6feaad303</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-24 14:34:27</sys_updated_on>
+        <table>x_1792419_reimbu_0_reimbursement_flux</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>
