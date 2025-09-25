@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 14:55:23</sys_created_on>
+        <sys_id>eecfd644831c721035f956d6feaad378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_sla.x_1792419_reimbu_0.hr.manager</sys_name>
+        <sys_package display_value="Reimbursement" source="x_1792419_reimbu_0">4093becb8304321035f956d6feaad3b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reimbursement">4093becb8304321035f956d6feaad3b6</sys_scope>
+        <sys_security_acl display_value="task_sla">a5cf9644831c721035f956d6feaad3aa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eecfd644831c721035f956d6feaad378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:55:23</sys_updated_on>
+        <sys_user_role display_value="x_1792419_reimbu_0.hr.manager" name="x_1792419_reimbu_0.hr.manager">6ff6b6038344321035f956d6feaad39e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
