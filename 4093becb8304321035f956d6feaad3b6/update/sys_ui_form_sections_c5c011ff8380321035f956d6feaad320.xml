@@ -14,6 +14,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-24 14:35:26</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-24 19:00:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>735ec27b83c4321035f956d6feaad3de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1792419_reimbu_0_reimbursement_flux" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">c5c011ff8380321035f956d6feaad320</sys_ui_form>
+            <sys_ui_section caption="Integration" display_value="Integration" name="x_1792419_reimbu_0_reimbursement_flux" sys_domain="global" view="Default view">f35ec27b83c4321035f956d6feaad308</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-24 19:00:23</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1792419_reimbu_0_reimbursement_flux</name>
             <roles/>
