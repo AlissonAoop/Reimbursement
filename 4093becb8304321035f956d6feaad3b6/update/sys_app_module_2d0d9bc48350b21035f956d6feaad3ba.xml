@@ -8,12 +8,12 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>Reimbursement Categories</mobile_title>
+        <mobile_title>Reimbursement Flux</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_1792419_reimbu_0_reimbursement_categories</name>
-        <order>100</order>
+        <name/>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -21,21 +21,21 @@
         <roles>x_1792419_reimbu_0.hr.manager,x_1792419_reimbu_0.hr.resolver</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-22 17:29:37</sys_created_on>
+        <sys_created_on>2025-09-25 19:23:20</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>de46e74f8308321035f956d6feaad334</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Reimbursement Categories</sys_name>
+        <sys_id>2d0d9bc48350b21035f956d6feaad3ba</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Reimbursement Flux</sys_name>
         <sys_overrides/>
         <sys_package display_value="Reimbursement" source="x_1792419_reimbu_0">4093becb8304321035f956d6feaad3b6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Reimbursement">4093becb8304321035f956d6feaad3b6</sys_scope>
-        <sys_update_name>sys_app_module_de46e74f8308321035f956d6feaad334</sys_update_name>
+        <sys_update_name>sys_app_module_2d0d9bc48350b21035f956d6feaad3ba</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-25 19:26:23</sys_updated_on>
+        <sys_updated_on>2025-09-25 19:26:25</sys_updated_on>
         <timeline_page/>
-        <title>Reimbursement Categories</title>
+        <title>Reimbursement Flux</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

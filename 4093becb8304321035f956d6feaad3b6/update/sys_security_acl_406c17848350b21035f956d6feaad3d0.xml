@@ -8,24 +8,24 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <decision_type>deny</decision_type>
-        <description>Deny write for records in x_1792419_reimbu_0_reimbursement_flux, unless the ACL condition (stateNOT IN3,4^EQ) evaluates to true.</description>
+        <description/>
         <local_or_existing>Local</local_or_existing>
         <name>x_1792419_reimbu_0_reimbursement_flux</name>
-        <operation display_value="write">write</operation>
+        <operation display_value="list_edit">54f535270a0a0b8c007c67009ab2bdc0</operation>
         <script/>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-24 12:39:36</sys_created_on>
-        <sys_id>8ea670fb8300321035f956d6feaad3ed</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_created_on>2025-09-25 19:20:19</sys_created_on>
+        <sys_id>406c17848350b21035f956d6feaad3d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1792419_reimbu_0_reimbursement_flux</sys_name>
         <sys_package display_value="Reimbursement" source="x_1792419_reimbu_0">4093becb8304321035f956d6feaad3b6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Reimbursement">4093becb8304321035f956d6feaad3b6</sys_scope>
-        <sys_update_name>sys_security_acl_8ea670fb8300321035f956d6feaad3ed</sys_update_name>
+        <sys_update_name>sys_security_acl_406c17848350b21035f956d6feaad3d0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-25 19:56:10</sys_updated_on>
+        <sys_updated_on>2025-09-25 19:20:19</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
